@@ -14,9 +14,9 @@
 </p>
 
 <h1 align='center'>
-  Currently learning:
+  Languages ​​I use
 </h1>
 
 <p align='center'>
-
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 </p>
