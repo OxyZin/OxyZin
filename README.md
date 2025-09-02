@@ -14,9 +14,9 @@
 </p>
 
 <h1 align='center'>
-  Languages ​​I use
+  Tools/Langs i use
 </h1>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=c,vscode" />
 </p>
