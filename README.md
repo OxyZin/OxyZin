@@ -2,7 +2,7 @@
   Hi! im Davi
 </h1>
 <p align='center'>
-  A Small dev.
+  C/C++ Developer.
 </p>
 
 <p align='center'>
