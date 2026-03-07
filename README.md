@@ -19,4 +19,5 @@
 
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,linux,vscode,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
