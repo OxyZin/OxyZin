@@ -18,5 +18,5 @@
 </h1>
 
 <p align='center'>
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,vscode,git" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,linux,vscode,git" />
 </p>
