@@ -7,10 +7,10 @@ C/C++ Developer
 <h2 align="center">💻 Main PC</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/intel-core%20i3%203rd-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/nvidia-gtx%20960-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/windows%2010%20LTSC-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/AMD%20FX--6300-ED1C24?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto"/>
+<img src="https://img.shields.io/badge/RAM-8GB-4A4A4A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NVIDIA-GTX%20960-76B900?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto"/>
 </p>
 
 <h2 align="center">🛠 Tools / Languages</h2>
