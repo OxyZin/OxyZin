@@ -16,7 +16,7 @@ C/C++ Developer
 <h2 align="center">🛠 Tools / Languages</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,linux,git,vscode,bash"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,linux,windows,git,vscode,bash"/>
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,lua"/>
 <br>
